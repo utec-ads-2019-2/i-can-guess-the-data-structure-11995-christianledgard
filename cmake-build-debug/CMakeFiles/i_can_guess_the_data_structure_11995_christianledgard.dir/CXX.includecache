@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/i-can-guess-the-data-structure-11995-christianledgard/main.cpp
+iostream
+-
+
